@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-cache/
+.next-brochure/
+venu-arcade/
+out/
+*.tsbuildinfo
+.env*
+*.zip
+.npm-cache/
+*.tar.gz
+.pdf-tools/
+.brochure-work/
+.build-brochure/
+.qa-tools/
+.qa-results/
